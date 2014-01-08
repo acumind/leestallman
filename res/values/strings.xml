@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LeeStallman</string>
+    <string name="Name2">Richard Matthew Stallman</string>
+    <string name="Name1">Tim Berners-Lee</string>
+    <string name="Name1Bio">
+    Sir Timothy John "Tim" Berners-Lee, also known as \"TimBL,\" is a British computer scientist, 
+    best known as the inventor of the World Wide Web. He made a proposal for an information management system in March 1989, and he implemented the 
+    first successful communication between a Hypertext Transfer Protocol (HTTP) client and server via the Internet sometime around mid November.
+    Berners-Lee is the director of the World Wide Web Consortium (W3C), which oversees the Web\'s continued development. He is also the founder of the 
+    World Wide Web Foundation, and is a senior researcher and holder of the Founders Chair at the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL).
+    He is a director of the Web Science Research Initiative (WSRI), and a member of the advisory board of the MIT Center for Collective Intelligence.
+    In 2004, Berners-Lee was knighted by Queen Elizabeth II for his pioneering work. In April 2009, he was elected a foreign associate of the United States National Academy 
+    of Sciences.He was honoured as the "Inventor of the World Wide Web" during the 2012 Summer Olympics opening ceremony.[Text From Wikipedia]
+    </string>       
+    <string name="Name2Bio">
+        Richard Matthew Stallman often known by his initials, RMS, is an American software freedom activist and computer programmer. He campaigns for software to be distributed in a manner, such that a user receiving it, likewise receives 
+        with it the freedoms to use, study, distribute and modify that software: software that ensures these freedoms (on receipt) is termed free software. He is best known for launching the GNU Project, 
+        founding the Free Software Foundation, developing the GNU Compiler Collection and GNU Emacs, and writing the GNU General Public License. Stallman launched the GNU Project in September 1983 to create a 
+        Unix-like computer operating system composed entirely of free software. With this, he also launched the free software movement. He has been the GNU project\'s lead architect and organizer, and developed 
+        a number of pieces of widely used GNU software including, among others, the GNU Compiler Collection, the GNU Debugger and the GNU Emacs text editor. In October 1985 he founded the Free Software Foundation.
+        Stallman pioneered the concept of copyleft, which uses the principles of copyright law to preserve the right to use, modify and distribute free software, and is the main author of free software licenses which describe 
+        those terms, most notably the GNU General Public License (GPL), the most widely used free software license.
+        In 1989 he co-founded the League for Programming Freedom. Since the mid-1990s, Stallman has spent most of his time advocating for free software, as well as campaigning against software patents, digital rights management, 
+        and other legal and technical systems which he sees as taking away users\' freedoms, including software license agreements, non-disclosure agreements, activation keys, dongles, copy restriction, proprietary formats and binary executables without source code.
+
+		He has received fourteen honorary doctorates and professorships for this work.[Text From Wikipedia]
+	</string>
+
+</resources>
